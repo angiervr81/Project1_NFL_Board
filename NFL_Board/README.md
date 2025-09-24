@@ -2,13 +2,13 @@
 
 Submitted by: **Angie Rivera**
 
-This web app: **NFL_BOARD is a community board web app that allows users to view all NFL teams, along with their schedules, stats, and standings, helping users plan out which teams to follow for the season more.**
+This web app: **NFL_BOARD is a community board web app that allows users to view all NFL teams, along with their schedules, stats, and standings, helping users plan out which teams to follow for the season.**
 
-Time spent: **X** hours spent in total
+Time spent: **7** hours spent in total
 
 ## Required Features
 
-The following **required** functionality is completed:
+The following **required** functionality have be completed:
 
 - [X] **The app has a cohesive, unique theme for events or resources relevant to a specific community**
   - [X] Header/title describing the theme is displayed
@@ -27,7 +27,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src= title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src= title='Video Walkthrough' width='' alt='Video Walkthrough'> </img>
 
 <!-- Replace this with whatever GIF tool you used! -->
 <div>
