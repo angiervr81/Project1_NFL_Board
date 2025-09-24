@@ -38,8 +38,12 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-**Adjusting the grids and aligning all images to the same size to ensure they look even and uniform, while also making sure the app works seamlessly on both mobile and desktop screens.** 
+**Well completing this webapp I came across a complete of challenges:**
+- Adjusting the grids and aligning all images to the same size to ensure they look even and uniform
+- Making sure the app works seamlessly on both mobile and desktop screens.
+- Not adding all NFL teams (coming soon)
+- Sizing up the text for stats, stands and team information 
+- The biggest challenge was making for I was in the right folder everytime and making sure I was importing the correct file 
 
 ## License
 
