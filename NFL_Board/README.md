@@ -32,12 +32,13 @@ Here's a walkthrough of implemented required features:
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/0ba71586be47462da614e83a8f460650-040fbe4c0660e780-full-play.gif">
     </a>
   </div>
-<!-- tool used:-->
-[loom.com](https://www.loom.com/looms/videos)
+Tools used to create walkthrough
+loom.com
 
 GIF created with ...  
 
 [ScreenToGif](../Wk1_Project1_NFL_Board.gif) for Windows
+
 ## Notes
 
 **Well completing this webapp I came across a complete of challenges:**
