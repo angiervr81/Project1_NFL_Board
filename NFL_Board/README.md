@@ -33,7 +33,7 @@ Here's a walkthrough of implemented required features:
     </a>
   </div>
 <!-- tool used:-->
-[loom](https://www.loom.com/looms/videos)
+[loom.com](https://www.loom.com/looms/videos)
 
 GIF created with ...  
 
