@@ -41,7 +41,8 @@ GIF was created with ...
 ## Notes
 
 **While completing this web app, I encountered several challenges:**
--Adjusting the grid layout and aligning all images to the same size to ensure a uniform appearance.
+
+- Adjusting the grid layout and aligning all images to the same size to ensure a uniform appearance.
 
 - Ensuring the app works seamlessly on both mobile and desktop screens.
 
