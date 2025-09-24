@@ -7,7 +7,7 @@ function App() {
     <div className='app'>
       <h1>NFL Board</h1>
 
-      <div className='card-gird'>
+      <div className='card-grid'>
         {teams.map((team) => (
           <TeamCard key={team.id} team={team} />
         ))}
