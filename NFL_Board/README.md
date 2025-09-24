@@ -30,11 +30,16 @@ Here's a walkthrough of implemented required features:
 <img src= title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
+<div>
+    <a href="https://www.loom.com/share/0ba71586be47462da614e83a8f460650">
+    </a>
+    <a href="https://www.loom.com/share/0ba71586be47462da614e83a8f460650">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/0ba71586be47462da614e83a8f460650-040fbe4c0660e780-full-play.gif">
+    </a>
+  </div>
 GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+<!-- Recommended tools:-->
+[loom](https://www.loom.com/looms/videos)
 
 ## Notes
 
