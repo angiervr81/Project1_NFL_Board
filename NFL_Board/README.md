@@ -32,8 +32,7 @@ Here's a walkthrough of implemented required features:
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/0ba71586be47462da614e83a8f460650-040fbe4c0660e780-full-play.gif">
     </a>
 </div>
-Tools used to create walkthrough ...
-**loom.com**
+Tools used to create walkthrough was loom.com
 
 ## GIF
 GIF was created with ...
