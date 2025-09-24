@@ -27,8 +27,6 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src= title='Video Walkthrough' width='' alt='Video Walkthrough'> </img>
-
 <!-- Replace this with whatever GIF tool you used! -->
 <div>
     <a href="https://www.loom.com/share/0ba71586be47462da614e83a8f460650">
