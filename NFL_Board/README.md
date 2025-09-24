@@ -33,10 +33,10 @@ Here's a walkthrough of implemented required features:
     </a>
 </div>
 Tools used to create walkthrough ...
-loom.com
+**loom.com**
 
-## GIF created with ...  
-
+## GIF
+Gif was created with ...
 [ScreenToGif](../Wk1_Project1_NFL_Board.gif) for Windows
 
 ## Notes
