@@ -2,7 +2,7 @@
 
 Submitted by: **Angie Rivera**
 
-This web app: **NFL_BOARD is a community board web app that allows users to view all NFL teams, along with their schedules, stats, and standings, helping users plan out their season more easily**
+This web app: **NFL_BOARD is a community board web app that allows users to view all NFL teams, along with their schedules, stats, and standings, helping users plan out which teams to follow for the season more.**
 
 Time spent: **X** hours spent in total
 
