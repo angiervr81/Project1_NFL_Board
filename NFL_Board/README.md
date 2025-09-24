@@ -36,12 +36,12 @@ Tools used to create walkthrough ...
 **loom.com**
 
 ## GIF
-Gif was created with ...
+GIF was created with ...
 [ScreenToGif](../Wk1_Project1_NFL_Board.gif) for Windows
 
 ## Notes
 
-**Well completing this webapp I came across a complete of challenges:**
+**Well completing this web app I came across a complete of challenges:**
 - Adjusting the grids and aligning all images to the same size to ensure they look even and uniform
 - Making sure the app works seamlessly on both mobile and desktop screens.
 - Not adding all NFL teams (coming soon)
